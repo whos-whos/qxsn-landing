@@ -1,0 +1,105 @@
+2025-12-05 23:25:55:    ▲ Next.js 16.0.6
+2025-12-05 23:25:55:    - Local:         http://localhost:3000
+2025-12-05 23:25:55:    - Network:       http://192.168.1.87:3000
+2025-12-05 23:25:55: 
+2025-12-05 23:25:55:  ✓ Starting...
+2025-12-05 23:25:55:  ✓ Ready in 598ms
+2025-12-05 23:27:18:    ▲ Next.js 16.0.6
+2025-12-05 23:27:18:    - Local:         http://localhost:3000
+2025-12-05 23:27:18:    - Network:       http://192.168.1.87:3000
+2025-12-05 23:27:18: 
+2025-12-05 23:27:18:  ✓ Starting...
+2025-12-05 23:27:18:  ✓ Ready in 242ms
+2025-12-05 23:27:52:    ▲ Next.js 16.0.6
+2025-12-05 23:27:52:    - Local:         http://localhost:3000
+2025-12-05 23:27:52:    - Network:       http://192.168.1.87:3000
+2025-12-05 23:27:52: 
+2025-12-05 23:27:52:  ✓ Starting...
+2025-12-05 23:27:52:  ✓ Ready in 411ms
+2025-12-05 23:28:11:    ▲ Next.js 16.0.6
+2025-12-05 23:28:11:    - Local:         http://localhost:3000
+2025-12-05 23:28:11:    - Network:       http://192.168.1.87:3000
+2025-12-05 23:28:11: 
+2025-12-05 23:28:11:  ✓ Starting...
+2025-12-05 23:28:11:  ✓ Ready in 351ms
+2025-12-05 23:41:15: [landing] buildEncodedHtml start
+2025-12-05 23:41:15: [landing] NODE_ENV = production
+2025-12-05 23:41:15: [landing] __dirname = /ROOT/app
+2025-12-05 23:41:15: [landing] cwd = /Users/ace/Desktop/nextjs-boilerplate-main
+2025-12-05 23:41:15: [landing] htmlPath = /Users/ace/Desktop/nextjs-boilerplate-main/landing.html
+2025-12-05 23:41:15: [landing] jsPath = /Users/ace/Desktop/nextjs-boilerplate-main/landing-secret.js
+2025-12-05 23:41:15: [landing] read files ok
+2025-12-05 23:41:15: [download] DOWNLOAD_API_URL = undefined
+2025-12-05 23:41:15: [landing] urls = # #
+2025-12-05 23:41:15: [landing] encoded len = 2010
+2025-12-05 23:41:16: [landing] buildEncodedHtml start
+2025-12-05 23:41:16: [landing] NODE_ENV = production
+2025-12-05 23:41:16: [landing] __dirname = /ROOT/app
+2025-12-05 23:41:16: [landing] cwd = /Users/ace/Desktop/nextjs-boilerplate-main
+2025-12-05 23:41:16: [landing] htmlPath = /Users/ace/Desktop/nextjs-boilerplate-main/landing.html
+2025-12-05 23:41:16: [landing] jsPath = /Users/ace/Desktop/nextjs-boilerplate-main/landing-secret.js
+2025-12-05 23:41:16: [landing] read files ok
+2025-12-05 23:41:16: [download] DOWNLOAD_API_URL = undefined
+2025-12-05 23:41:16: [landing] urls = # #
+2025-12-05 23:41:16: [landing] encoded len = 2010
+2025-12-05 23:43:56:    ▲ Next.js 16.0.6
+2025-12-05 23:43:56:    - Local:         http://localhost:3000
+2025-12-05 23:43:56:    - Network:       http://192.168.1.87:3000
+2025-12-05 23:43:56: 
+2025-12-05 23:43:56:  ✓ Starting...
+2025-12-05 23:43:57:  ✓ Ready in 477ms
+2025-12-05 23:45:17: [landing] buildEncodedHtml start
+2025-12-05 23:45:17: [landing] NODE_ENV = production
+2025-12-05 23:45:17: [landing] __dirname = /ROOT/app
+2025-12-05 23:45:17: [landing] cwd = /Users/ace/Desktop/nextjs-boilerplate-main
+2025-12-05 23:45:17: [landing] htmlPath = /Users/ace/Desktop/nextjs-boilerplate-main/landing.html
+2025-12-05 23:45:17: [landing] jsPath = /Users/ace/Desktop/nextjs-boilerplate-main/landing-secret.js
+2025-12-05 23:45:17: [landing] read files ok
+2025-12-05 23:45:17: [download] DOWNLOAD_API_URL = undefined
+2025-12-05 23:45:17: [landing] urls = # #
+2025-12-05 23:45:17: [landing] encoded len = 2010
+2025-12-06 21:41:23: [landing] buildEncodedHtml start
+2025-12-06 21:41:23: [landing] NODE_ENV = production
+2025-12-06 21:41:23: [landing] __dirname = /ROOT/app
+2025-12-06 21:41:23: [landing] cwd = /Users/ace/Desktop/nextjs-boilerplate-main
+2025-12-06 21:41:23: [landing] htmlPath = /Users/ace/Desktop/nextjs-boilerplate-main/landing.html
+2025-12-06 21:41:23: [landing] jsPath = /Users/ace/Desktop/nextjs-boilerplate-main/landing-secret.js
+2025-12-06 21:41:23: [landing] read files ok
+2025-12-06 21:41:23: [download] DOWNLOAD_API_URL = undefined
+2025-12-06 21:41:23: [landing] urls = # #
+2025-12-06 21:41:23: [landing] encoded len = 2010
+2025-12-06 21:41:38:    ▲ Next.js 16.0.6
+2025-12-06 21:41:38:    - Local:         http://localhost:3000
+2025-12-06 21:41:38:    - Network:       http://192.168.1.87:3000
+2025-12-06 21:41:38: 
+2025-12-06 21:41:38:  ✓ Starting...
+2025-12-06 21:41:39:  ✓ Ready in 359ms
+2025-12-06 21:43:58:    ▲ Next.js 16.0.6
+2025-12-06 21:43:58:    - Local:         http://localhost:3000
+2025-12-06 21:43:58:    - Network:       http://192.168.1.87:3000
+2025-12-06 21:43:58: 
+2025-12-06 21:43:58:  ✓ Starting...
+2025-12-06 21:43:58:  ✓ Ready in 242ms
+2025-12-06 21:44:02: { url: [Getter] } import.meta
+2025-12-06 21:44:02: [landing] buildEncodedHtml start
+2025-12-06 21:44:02: [landing] NODE_ENV = production
+2025-12-06 21:44:02: [landing] __dirname = /ROOT/app
+2025-12-06 21:44:02: [landing] cwd = /Users/ace/Desktop/nextjs-boilerplate-main
+2025-12-06 21:44:02: [landing] htmlPath = /Users/ace/Desktop/nextjs-boilerplate-main/landing.html
+2025-12-06 21:44:02: [landing] jsPath = /Users/ace/Desktop/nextjs-boilerplate-main/landing-secret.js
+2025-12-06 21:44:02: [landing] read files ok
+2025-12-06 21:44:02: [download] DOWNLOAD_API_URL = undefined
+2025-12-06 21:44:02: [landing] urls = # #
+2025-12-06 21:44:02: [landing] encoded len = 2010
+2025-12-06 21:45:32:    ▲ Next.js 16.0.6
+2025-12-06 21:45:32:    - Local:         http://localhost:3000
+2025-12-06 21:45:32:    - Network:       http://192.168.1.87:3000
+2025-12-06 21:45:32: 
+2025-12-06 21:45:32:  ✓ Starting...
+2025-12-06 21:45:32:  ✓ Ready in 320ms
+2025-12-06 23:29:37:    ▲ Next.js 16.0.6
+2025-12-06 23:29:37:    - Local:         http://localhost:3000
+2025-12-06 23:29:37:    - Network:       http://192.168.1.87:3000
+2025-12-06 23:29:37: 
+2025-12-06 23:29:37:  ✓ Starting...
+2025-12-06 23:29:37:  ✓ Ready in 435ms

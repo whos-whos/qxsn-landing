@@ -1,0 +1,38 @@
+{
+  "name": "nextjs",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "css:dev": "postcss app/styles/landing.css -o public/landing.css -w",
+    "css:build": "postcss app/styles/landing.css -o public/landing.css",
+    "dev": "pnpm css:dev & next dev",
+    "build": "pnpm css:build && next build",
+    "start": "next start",
+    "lint": "eslint",
+    "deploy": "pm2 start ecosystem.config.cjs --env production",
+    "restart": "pm2 reload wllt-landing --update-env"
+  },
+  "dependencies": {
+    "axios": "^1.13.2",
+    "next": "16.0.6",
+    "react": "19.2.0",
+    "react-dom": "19.2.0"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4",
+    "@types/node": "^20",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "@unocss/cli": "^66.5.10",
+    "@unocss/postcss": "^66.5.10",
+    "autoprefixer": "^10.4.22",
+    "eslint": "^9",
+    "eslint-config-next": "16.0.6",
+    "pm2": "^6.0.14",
+    "postcss": "^8.5.6",
+    "postcss-cli": "^11.0.1",
+    "tailwindcss": "^4",
+    "typescript": "^5",
+    "unocss": "^66.5.10"
+  }
+}
