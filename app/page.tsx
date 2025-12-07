@@ -59,16 +59,26 @@ async function buildEncodedHtml(): Promise<KeyNums> {
 }
 
 export default async function Page() {
+  let keyNums: KeyNums | null = null;
+  let error: unknown = null;
+
   try {
-    const keyNums = await buildEncodedHtml();
-    return <ClientLanding keyNums={keyNums} />;
-  } catch (e: any) {
-    console.error('[Page] error:', e?.message || e);
+    keyNums = await buildEncodedHtml();
+  } catch (e: unknown) {
+    error = e;
+    console.error("[Page] error:", e instanceof Error ? e.message : e);
+  }
+
+  if (!keyNums) {
     // 出错时至少给你一个提示，不会是纯白
     return (
-      <div style={{ padding: 24, color: 'red' }}>
-        服务器渲染出错：{e?.message || String(e)}
+      <div style={{ padding: 24, color: "red" }}>
+        服务器渲染出错：
+        {error instanceof Error ? error.message : String(error ?? "未知错误")}
       </div>
     );
   }
+
+  // 这里已经不在 try/catch 里，ESLint 不再报错
+  return <ClientLanding keyNums={keyNums} />;
 }
